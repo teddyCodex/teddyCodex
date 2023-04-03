@@ -67,5 +67,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
-
+![](https://github-readme-stats.vercel.app/api?username=ubuntu6ty9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ubuntu6ty9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubuntu6ty9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Ubuntu's github stats](https://github-readme-stats.vercel.app/api?username=ubuntu6ty9&show_icons=true&hide_border=true)
