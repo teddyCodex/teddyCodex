@@ -29,12 +29,12 @@
 <br />
 -->
 
-<br />
+<!-- <br /> -->
 
 <!-- Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ -->
 
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 
 <!-- 
 **Talking about Personal Stuffs:**
@@ -69,5 +69,7 @@
  
 <!-- ![](https://github-readme-stats.vercel.app/api?username=teddyCodex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teddyCodex&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyCodex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![Ubuntu's github stats](https://github-readme-stats.vercel.app/api?username=teddyCodex&show_icons=true&hide_border=true&theme=dracula)
