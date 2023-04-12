@@ -70,3 +70,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teddyCodex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyCodex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Ubuntu's github stats](https://github-readme-stats.vercel.app/api?username=teddyCodex&show_icons=true&hide_border=true&theme=dracula)
+
+![Snake animation](https://github.com/teddyCodex/teddyCodex/blob/output/github-contribution-grid-snake.svg)
