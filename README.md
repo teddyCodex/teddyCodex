@@ -9,6 +9,7 @@
 
 <br/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Teddy;Teddy Codex!;+ツ)
 
 <!--- <a href="https://twitter.com/sakigo_09">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
