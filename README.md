@@ -7,7 +7,7 @@
    ╚═╝   ╚══════╝╚═════╝ ╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 </pre> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Teddy;Teddy+Codex!;+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f37072&size=38&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Teddy;Teddy+Codex!;-_-)
 
 
 <!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
