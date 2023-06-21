@@ -15,6 +15,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teddyCodex&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyCodex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![teddyCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyCodex&show_icons=true&theme=synthwave)
 
-![Ubuntu's github stats](https://github-readme-stats.vercel.app/api?username=teddyCodex&show_icons=true&hide_border=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyCodex&theme=synthwave)](https://github.com/teddyCodex/github-readme-stats)
